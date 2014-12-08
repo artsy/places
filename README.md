@@ -1,5 +1,5 @@
 
-# Cities
+# Places
 
 Tiny module used for making location queries at Artsy.
 
