@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "''"
+    "url": "http://github.com/artsy/places.git"
   },
   "devDependencies": {
     "mocha": "*",
