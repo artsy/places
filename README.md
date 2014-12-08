@@ -6,7 +6,8 @@ Tiny module used for making location queries at Artsy.
 ## Example
 
 ````coffeescript
-{Cities} = require('places');
+_ = require 'underscore'
+{Cities} = require 'places'
 
 ny = _.findWhere Cities, slug: 'new-york'
 ````
