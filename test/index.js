@@ -24,9 +24,9 @@ describe('Featured cities', function() {
 
   it('contains a only a list of featured cities in order', function(done) {
     FeaturedCities.should.be.instanceof(Array);
-    FeaturedCities.length.should.equal(11);
+    FeaturedCities.length.should.equal(10);
     FeaturedCities[0].slug.should.equal('new-york');
-    FeaturedCities[10].slug.should.equal('tokyo');
+    FeaturedCities[9].slug.should.equal('tokyo');
     done();
   });
 
