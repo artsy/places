@@ -22,9 +22,11 @@ describe('Cities', function() {
 
 describe('Featured cities', function() {
 
-  it('contains a only a list of featured cities', function(done) {
+  it('contains a only a list of featured cities in order', function(done) {
     FeaturedCities.should.be.instanceof(Array);
-    FeaturedCities.length.should.equal(9);
+    FeaturedCities.length.should.equal(11);
+    FeaturedCities[0].slug.should.equal('new-york');
+    FeaturedCities[10].slug.should.equal('tokyo');
     done();
   });
 
