@@ -5,11 +5,10 @@ Extracts @dzucconi's cities component into a tiny module to share between Artsy 
 
 ## Example
 
-````javascript
-var Cities = require('cities').Cities;
+````coffeescript
+{Cities} = require('cities');
 
-var ny = _.findWhere(Cities, slug: 'new-york');
-
+ny = _.findWhere Cities, slug: 'new-york'
 ````
 
 ## License
