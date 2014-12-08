@@ -1,5 +1,5 @@
 {
-  "name": "artsy-cities",
+  "name": "places",
   "version": "0.0.1",
   "description": "A small module used for querying shows in selected cities @artsy",
   "main": "index.js",

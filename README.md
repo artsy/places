@@ -1,12 +1,12 @@
 
 # Cities
 
-Extracts @dzucconi's cities component into a tiny module to share between Artsy web apps. Overkill? Only you can be the judge of that.
+Tiny module used for making location queries at Artsy.
 
 ## Example
 
 ````coffeescript
-{Cities} = require('cities');
+{Cities} = require('places');
 
 ny = _.findWhere Cities, slug: 'new-york'
 ````
