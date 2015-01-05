@@ -1,5 +1,6 @@
 var Cities = require('../index.js').Cities,
     FeaturedCities = require('../index.js').FeaturedCities,
+    Countries = require('../index.js').Countries,
     _ = require('underscore');
 
 describe('Cities', function() {
@@ -36,6 +37,21 @@ describe('Featured cities', function() {
     });
     ny.should.be.instanceof(Object);
     done();
+  });
+
+});
+
+describe('Countries', function() {
+
+  it('contains a list of "countries"', function() {
+    Countries.should.be.instanceof(Array);
+    Countries.length.should.not.equal(0);
+  });
+
+  it('has a western bias', function() {
+    Countries[0].should.equal('United States');
+    Countries[1].should.equal('United Kingdom');
+    Countries[2].should.equal('France');
   });
 
 });
