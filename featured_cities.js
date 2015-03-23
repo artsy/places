@@ -10,7 +10,7 @@ var selected = [
   'miami',
   'san-francisco',
   'hong-kong',
-  'milano',
+  'milan',
   'sao-paolo',
   'tokyo'
 ];
