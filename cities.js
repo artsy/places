@@ -43,7 +43,7 @@ module.exports = [
   ,{ slug: 'melbourne', name: 'Melbourne', coords: [-37.814107, 144.96328000000003], sort_order: 1000}
   ,{ slug: 'mexico-city', name: 'Mexico City', coords: [19.432607700000002, -99.13320799999998], sort_order: 1000}
   ,{ slug: 'miami', name: 'Miami', coords: [25.7890972, -80.2040435], sort_order: 6}
-  ,{ slug: 'milano', name: 'Milano', coords: [45.465421899999996, 9.185924300000002], sort_order: 9}
+  ,{ slug: 'milan', name: 'Milan', coords: [45.465421899999996, 9.185924300000002], sort_order: 9}
   ,{ slug: 'montreal', name: 'Montreal', coords: [45.5086699, -73.55399249999999], sort_order: 1000}
   ,{ slug: 'munich', name: 'Munich', coords: [48.1351253, 11.581980600000001], sort_order: 1000}
   ,{ slug: 'naples', name: 'Naples', coords: [26.142035799999995, -81.79481030000001], sort_order: 1000}
