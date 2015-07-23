@@ -7,6 +7,7 @@ module.exports = [
   ,{ slug: 'barcelona', name: 'Barcelona', coords: [41.38506389999999, 2.1734035], sort_order: 1000}
   ,{ slug: 'basel', name: 'Basel', coords: [47.567442199999995, 7.597550699999999], sort_order: 1000}
   ,{ slug: 'beijing', name: 'Beijing', coords: [39.90403, 116.407526], sort_order: 1000}
+  ,{ slug: 'beirut', name: 'Beirut', coords: [33.888629, 35.495479], sort_order: 1000}
   ,{ slug: 'berlin', name: 'Berlin', coords: [52.52000659999998, 13.404954000000002], sort_order: 5}
   ,{ slug: 'bogota', name: 'Bogota', coords: [4.598056000000001, -74.075833], sort_order: 1000}
   ,{ slug: 'bologna', name: 'Bologna', coords: [44.494887, 11.342616299999998], sort_order: 1000}
