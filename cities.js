@@ -18,7 +18,7 @@ module.exports = [
   ,{ slug: 'chicago', name: 'Chicago', coords: [41.8781136, -87.6297982], sort_order: 1000}
   ,{ slug: 'cologne', name: 'Cologne', coords: [50.937531, 6.9602786], sort_order: 1000}
   ,{ slug: 'copenhagen', name: 'Copenhagen', coords: [55.67609680000001, 12.568337099999999], sort_order: 1000}
-  ,{ slug: 'daegu', name: 'Daegu', coords: [35.8667, -128.6000], sort_order: 1000}
+  ,{ slug: 'daegu', name: 'Daegu', coords: [35.8667, 128.6000], sort_order: 1000}
   ,{ slug: 'dallas', name: 'Dallas', coords: [32.78013990000001, -96.80045109999999], sort_order: 1000}
   ,{ slug: 'denver', name: 'Denver', coords: [39.737567, -104.98471789999999], sort_order: 1000}
   ,{ slug: 'dubai', name: 'Dubai', coords: [25.047664299999994, 55.1817407], sort_order: 1000}
@@ -50,7 +50,7 @@ module.exports = [
   ,{ slug: 'milan', name: 'Milan', coords: [45.465421899999996, 9.185924300000002], sort_order: 9}
   ,{ slug: 'montreal', name: 'Montreal', coords: [45.5086699, -73.55399249999999], sort_order: 1000}
   ,{ slug: 'moscow', name: 'Moscow', coords: [55.7498598, 37.3523162], sort_order: 1000}
-  ,{ slug: 'mumbai', name: 'Mumbai', coords: [18.9750, -72.8258], sort_order: 1000}
+  ,{ slug: 'mumbai', name: 'Mumbai', coords: [18.9750, 72.8258], sort_order: 1000}
   ,{ slug: 'munich', name: 'Munich', coords: [48.1351253, 11.581980600000001], sort_order: 1000}
   ,{ slug: 'naples', name: 'Naples', coords: [26.142035799999995, -81.79481030000001], sort_order: 1000}
   ,{ slug: 'napoli', name: 'Napoli', coords: [40.851774600000006, 14.2681244], sort_order: 1000}
