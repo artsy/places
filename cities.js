@@ -79,7 +79,7 @@ module.exports = [
   ,{ slug: 'shanghai', name: 'Shanghai', coords: [31.230415999999998, 121.47370099999999], sort_order: 1000}
   ,{ slug: 'singapore', name: 'Singapore', coords: [1.352083, 103.81983599999998], sort_order: 1000}
   ,{ slug: 'st-moritz', name: 'St. Moritz', coords: [46.4950997, 9.836141900000001], sort_order: 1000}
-  ,{ slug: 'st-petersburg', name: 'St. Petersburg', coords: [27.773055999999997, -82.64000000000001], sort_order: 1000}
+  ,{ slug: 'st-petersburg', name: 'St. Petersburg', coords: [59.9171483, 30.0448854], sort_order: 1000}
   ,{ slug: 'stockholm', name: 'Stockholm', coords: [59.32932349999999, 18.0685808], sort_order: 1000}
   ,{ slug: 'sydney', name: 'Sydney', coords: [-33.8674869, 151.2069902], sort_order: 1000}
   ,{ slug: 'taipei', name: 'Taipei', coords: [25.0465658, 121.54886690000001], sort_order: 1000}
