@@ -1,7 +1,9 @@
 module.exports = [
    { slug: 'amsterdam', name: 'Amsterdam', coords: [52.3702157, 4.8951679000000015], sort_order: 1000}
   ,{ slug: 'aspen', name: 'Aspen', coords: [39.1953106, -106.841831], sort_order: 1000}
+  ,{ slug: 'atlanta', name: 'Atlanta', coords: [33.7678357, -84.490815], sort_order: 1000}
   ,{ slug: 'athens', name: 'Athens', coords: [37.98391699999999, 23.7293599], sort_order: 1000}
+  ,{ slug: 'baku', name: 'Baku', coords: [40.3942544, 49.5747749], sort_order: 1000}
   ,{ slug: 'baltimore', name: 'Baltimore', coords: [39.2903848, -76.61218930000001], sort_order: 1000}
   ,{ slug: 'bangalore', name: 'Bangalore', coords: [12.971598699999998, 77.59456270000001], sort_order: 1000}
   ,{ slug: 'bangkok', name: 'Bangkok', coords: [13.727895600000002, 100.5241235], sort_order: 1000}
