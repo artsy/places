@@ -40,6 +40,7 @@ module.exports = [
   ,{ slug: 'jerusalem', name: 'Jerusalem', coords: [31.7833, 35.2167], sort_order: 1000}
   ,{ slug: 'johannesburg', name: 'Johannesburg', coords: [-26.2044, 28.0456], sort_order: 1000}
   ,{ slug: 'jose-ignacio', name: 'José Ignacio', coords: [-34.8371561, -54.6688857], sort_order: 1000}
+  ,{ slug: 'koloa', name: 'Koloa', coords: [21.9023264, -159.500645], sort_order: 1000}
   ,{ slug: 'kuala-lumpur', name: 'Kuala Lumpur', coords: [3.139003, 101.686855], sort_order: 1000}
   ,{ slug: 'leipzig', name: 'Leipzig', coords: [51.3396955, 12.373074699999998], sort_order: 1000}
   ,{ slug: 'lima', name: 'Lima', coords: [-12.046373999999998, -77.0427934] , sort_order: 1000}
